@@ -1,0 +1,191 @@
+{
+  "companyName": "Apollo Automation",
+  "brand": "apollo-automation",
+  "devices": [
+    {
+      "deviceName": "MTR-1 Multi-Target Radar Multisensor",
+      "fullName": "Apollo Automation MTR-1 Multi-Target Radar Multisensor",
+      "modelNumber": "MTR-1",
+      "protocol": [
+        "ESPHome"
+      ],
+      "websiteLink": "https://apolloautomation.com/products/mtr-1",
+      "deviceType": "Sensor",
+      "secondaryDeviceType": [
+        "mmWave",
+        "Temperature",
+        "Pressure",
+        "CO2",
+        "Bluetooth",
+        "Light",
+        "UV"
+      ],
+      "relatedProducts": "",
+      "region": [
+        "Worldwide"
+      ],
+      "functionalityRemark": ""
+    },
+    {
+      "deviceName": "MSR-2 mmWave Multisensor",
+      "fullName": "Apollo Automation MSR-2 mmWave Multisensor",
+      "modelNumber": "MSR-2",
+      "protocol": [
+        "ESPHome"
+      ],
+      "websiteLink": "https://apolloautomation.com/products/msr-2",
+      "deviceType": "Sensor",
+      "secondaryDeviceType": [
+        "mmWave",
+        "Temperature",
+        "Pressure",
+        "CO2",
+        "Bluetooth",
+        "Light",
+        "UV"
+      ],
+      "relatedProducts": "",
+      "region": [
+        "Worldwide"
+      ],
+      "functionalityRemark": ""
+    },
+    {
+      "deviceName": "AIR-1 Air Quality Sensor",
+      "fullName": "Apollo Automation AIR-1 Air Quality Sensor",
+      "modelNumber": "AIR-1",
+      "protocol": [
+        "ESPHome"
+      ],
+      "websiteLink": "https://apolloautomation.com/products/air-1",
+      "deviceType": "Sensor",
+      "secondaryDeviceType": [
+        "Air quality"
+      ],
+      "relatedProducts": "",
+      "region": [
+        "Worldwide"
+      ],
+      "functionalityRemark": ""
+    },
+    {
+      "deviceName": "H-2 Holiday Ornament",
+      "fullName": "Apollo Automation H-2 Holiday Ornament",
+      "modelNumber": "H-2",
+      "protocol": [
+        "ESPHome"
+      ],
+      "websiteLink": "https://apolloautomation.com/products/apollo-h-2-annual-holiday-ornament",
+      "deviceType": "Light",
+      "secondaryDeviceType": [],
+      "relatedProducts": "",
+      "region": [
+        "Worldwide"
+      ],
+      "functionalityRemark": ""
+    },
+    {
+      "deviceName": "LED-1 Controller",
+      "fullName": "Apollo Automation LED-1 Controller",
+      "modelNumber": "LED-1",
+      "protocol": [
+        "ESPHome"
+      ],
+      "websiteLink": "https://apolloautomation.com/products/led-1-led-controller",
+      "deviceType": "Switch",
+      "secondaryDeviceType": [],
+      "relatedProducts": "",
+      "region": [
+        "Worldwide"
+      ],
+      "functionalityRemark": ""
+    },
+    {
+      "deviceName": "BTN-1 Macro Deck",
+      "fullName": "Apollo Automation BTN-1 Macro Deck",
+      "modelNumber": "BTN-1",
+      "protocol": [
+        "ESPHome"
+      ],
+      "websiteLink": "https://apolloautomation.com/products/btn-1-macro-deck",
+      "deviceType": "Switch",
+      "secondaryDeviceType": [],
+      "relatedProducts": "",
+      "region": [
+        "Worldwide"
+      ],
+      "functionalityRemark": ""
+    },
+    {
+      "deviceName": "R PRO-1 PoE dual mmWave Multisensor",
+      "fullName": "Apollo Automation R PRO-1 PoE dual mmWave Multisensor",
+      "modelNumber": "R PRO-1",
+      "protocol": [
+        "ESPHome"
+      ],
+      "websiteLink": "https://apolloautomation.com/products/r-pro-1",
+      "deviceType": "Sensor",
+      "secondaryDeviceType": [
+        "mmWave"
+      ],
+      "relatedProducts": "",
+      "region": [
+        "Worldwide"
+      ],
+      "functionalityRemark": ""
+    },
+    {
+      "deviceName": "PLT-1 / PLT1B Plant Sensor",
+      "fullName": "Apollo Automation PLT-1 / PLT1B Plant Sensor",
+      "modelNumber": "PLT-1 / PLT-1B",
+      "protocol": [
+        "ESPHome"
+      ],
+      "websiteLink": "https://apolloautomation.com/products/plt-1",
+      "deviceType": "Sensor",
+      "secondaryDeviceType": [
+        "Soil"
+      ],
+      "relatedProducts": "",
+      "region": [
+        "Worldwide"
+      ],
+      "functionalityRemark": ""
+    },
+    {
+      "deviceName": "PUMP-1 Fluid Pump",
+      "fullName": "Apollo Automation PUMP-1 Fluid Pump",
+      "modelNumber": "PUMP-1",
+      "protocol": [
+        "ESPHome"
+      ],
+      "websiteLink": "https://apolloautomation.com/products/pump-1-fluid-pump",
+      "deviceType": "Irrigation",
+      "secondaryDeviceType": [],
+      "relatedProducts": "",
+      "region": [
+        "Worldwide"
+      ],
+      "functionalityRemark": ""
+    },
+    {
+      "deviceName": "TEMP-1 Temperature Sensor",
+      "fullName": "Apollo Automation TEMP-1 Temperature Sensor",
+      "modelNumber": "TEMP-1",
+      "protocol": [
+        "ESPHome"
+      ],
+      "websiteLink": "https://apolloautomation.com/products/temp-1",
+      "deviceType": "Sensor",
+      "secondaryDeviceType": [
+        "Temperature",
+        "Humidity"
+      ],
+      "relatedProducts": "",
+      "region": [
+        "Worldwide"
+      ],
+      "functionalityRemark": ""
+    }
+  ]
+}

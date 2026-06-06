@@ -1,0 +1,120 @@
+{
+    "logo_path": "/img/partners/",
+    "partners": [
+        {
+            "name": "Aqara",
+            "logo": "aqara.png",
+            "link": "https://www.ovyon.io/integrations/aqara/"
+        },
+        {
+            "name": "Apollo",
+            "logo": "apollo.png",
+            "link": "https://www.ovyon.io/integrations/apollo_automation/"
+        },
+        {
+            "name": "Eve",
+            "logo": "eve.png",
+            "link": "https://www.ovyon.io/integrations/eve/"
+        },
+        {
+            "name": "HomeSeer",
+            "logo": "homeseer.png",
+            "link": "https://www.ovyon.io/integrations/homeseer/"
+        },
+        {
+            "name": "HomeWizard",
+            "logo": "homewizard.png",
+            "link": "https://www.ovyon.io/integrations/homewizard/"
+        },
+        {
+            "name": "Jasco",
+            "logo": "jasco.png",
+            "link": "https://www.ovyon.io/integrations/jasco/"
+        },
+        {
+            "name": "Leviton",
+            "logo": "leviton.png",
+            "link": "https://www.ovyon.io/integrations/leviton_z_wave/"
+        },
+        {
+            "name": "Reolink",
+            "logo": "reolink.png",
+            "link": "https://www.ovyon.io/integrations/reolink/"
+        },
+        {
+            "name": "Third Reality",
+            "logo": "thirdreality.png",
+            "link": "https://www.ovyon.io/integrations/third_reality/"
+        },
+        {
+            "name": "Ultraloq",
+            "logo": "ultraloq.png",
+            "link": "https://www.ovyon.io/integrations/ultraloq/"
+        },
+        {
+            "name": "Nuki",
+            "logo": "nuki.png",
+            "link": "https://www.ovyon.io/integrations/nuki/"
+        },
+        {
+            "name": "Switchbot",
+            "logo": "switchbot.png",
+            "link": "https://www.ovyon.io/integrations/switchbot/"
+        },
+        {
+            "name": "Zooz",
+            "logo": "zooz.png",
+            "link": "https://www.ovyon.io/integrations/zooz/"
+        },
+        {
+            "name": "Frient",
+            "logo": "frient.png",
+            "link": "https://www.ovyon.io/integrations/frient/"
+        },
+        {
+            "name": "AirGradient",
+            "logo": "airgradient.png",
+            "link": "https://www.ovyon.io/integrations/airgradient/"
+        },
+        {
+            "name": "Konnected",
+            "logo": "konnected.png",
+            "link": "https://www.ovyon.io/integrations/konnected_esphome/"
+        },
+        {
+            "name": "Eltako",
+            "logo": "eltako.png",
+            "link": "https://www.ovyon.io/integrations/eltako/"
+        },
+        {
+            "name": "Heiman",
+            "logo": "heiman.png",
+            "link": "https://www.ovyon.io/integrations/heiman/"
+        },
+        {
+            "name": "Heatit",
+            "logo": "heatit.png",
+            "link": "https://www.ovyon.io/integrations/heatit/"
+        },
+        {
+            "name": "ubisys",
+            "logo": "ubisys.png",
+            "link": "https://www.ovyon.io/integrations/ubisys/"
+        },
+        {
+            "name": "BEGA",
+            "logo": "bega.png",
+            "link": "https://www.bega.com/"
+        },
+        {
+            "name": "zunzunbee",
+            "logo": "zunzunbee.png",
+            "link": "https://www.ovyon.io/integrations/zunzunbee/"
+        },
+        {
+            "name": "Sensereo",
+            "logo": "sensereo.png",
+            "link": "https://www.ovyon.io/integrations/sensereo/"
+        }
+    ]
+}

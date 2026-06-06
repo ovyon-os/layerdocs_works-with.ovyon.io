@@ -1,0 +1,26 @@
+<section class="logo-slider" id="logo-slider">
+  <div class="container">
+    <div class="logo-slider-top">
+      <div class="swiper">
+        <!-- Additional required wrapper -->
+        <div class="swiper-wrapper">
+          <!-- Slides -->
+          {% for partner in partners.partners %}
+          <div class="swiper-slide">
+            {% if partner.link %}
+            <a href="{{ partner.link }}" target="_blank" rel="noopener">
+              {% endif %}
+              <img
+                src="{{ partners.logo_path }}{{ partner.logo }}"
+                alt="{{ partner.name }}"
+              />
+              {% if partner.link %}
+            </a>
+            {% endif %}
+          </div>
+          {% endfor %}
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
